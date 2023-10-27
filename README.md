@@ -17,5 +17,5 @@ Hello there! 👋 I'm Alesson, a Flutter developer with over a year and a half o
 
 ## Connect with Me
 - 📧 Feel free to reach out to me via email at [alesson.junior@outlook.com](mailto:alesson.junior@outlook.com)
-<br>
+
 ![Alesson's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessonjrt&show_icons=true&theme=dark)
