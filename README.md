@@ -12,6 +12,7 @@ Hello there! 👋 I'm Alesson, a Flutter developer with over a year and a half o
 ## My Tech Stack
 - 📱 Flutter
 - ⚛️ React
+- ⚛️ React Native
 - 🌐 Next.js
 - 🚀 Node.js
 
