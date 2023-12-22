@@ -1,6 +1,6 @@
 # Alesson's Developer Profile 👨‍💻
 
-Hello there! 👋 I'm Alesson, a Flutter developer with over a year and a half of experience. I'm passionate about creating mobile applications and exploring the world of technology.
+Hello there! 👋 I'm Alesson, a Flutter developer with over a two years of experience. I'm passionate about creating mobile applications and exploring the world of technology.
 
 ## About Me
 - 💼 Currently working at **Beatscode**, a sports technology (sportech) company.
